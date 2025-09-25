@@ -13,7 +13,8 @@
 
 Java Backend Developer with 5+ years of commercial experience, mainly in the banking **FinTech industry**: B2B/B2C systems, loan conveyors, analytics platforms.  
 
-- Worked in Agile teams (5–15 members), delivering features in sprints.  
+- Worked in Agile teams (5–15 members), delivering features in sprints.
+- Managed backend team consisted of 5 developers.  
 - Developed and released new products, enhanced existing ones.  
 - Optimized database queries to reduce response times.  
 - Designed **high throughput, low latency** solutions.  
