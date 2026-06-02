@@ -1,6 +1,6 @@
 # Egor Ayubdzhanov  
 
-**Java Developer | 5+ years of experience | FinTech / Banking**  
+**Java Developer | 6+ years of experience | FinTech / Banking**  
 
 📞 +66 (961) 1706-630  
 🌍 GMT+7  
